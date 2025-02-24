@@ -1,8 +1,8 @@
 # Random-Username-Generator
 PYTHON PROGRAMMING INTERNSHIP
-PROJECT 1
+-  PROJECT 1
 
-Project Title: Random Username Generator
+-  Project Title: Random Username Generator
 Objective: The goal of this project is to create a Python program that generates unique and funusernamessuitable for social media or gaming platforms. This project will help you practice basic Pythonconceptssuch as working with lists, randomization, and file handling.
 Project Features:
 1. Combine Random Adjectives and Nouns:
@@ -22,4 +22,4 @@ Generate usernames by combining a list of pre-defined adjectives and nouns. For 
 4. Test Thoroughly:
 - Test the program with different inputs and combinations to ensure it works as expected.
 5. Make it User-Friendly:
-Use clear prompts and messages to guide the user through the program.
+-  Use clear prompts and messages to guide the user through the program.
